@@ -172,12 +172,12 @@ int main()
    }
    if (key == 1)
    {
-      cout << "\n"
+      cout << "\n\n"
            << enemy.getName() << " WINS!!!!!\n";
    }
    else if (key == 2)
    {
-      cout << "\n"
+      cout << "\n\n"
            << play.getName() << " WINS!!!!!\n";
    }
    else
